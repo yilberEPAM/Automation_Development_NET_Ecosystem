@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesTesting", "Delegat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsTesting", "EventsTesting\EventsTesting.csproj", "{7B24EB61-D3DE-4B96-ABDD-813F27F8AF93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TupleTesting", "TupleTesting\TupleTesting.csproj", "{EE4EFC33-A62F-43B8-B928-36F7E6398A34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7B24EB61-D3DE-4B96-ABDD-813F27F8AF93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B24EB61-D3DE-4B96-ABDD-813F27F8AF93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B24EB61-D3DE-4B96-ABDD-813F27F8AF93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE4EFC33-A62F-43B8-B928-36F7E6398A34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4EFC33-A62F-43B8-B928-36F7E6398A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE4EFC33-A62F-43B8-B928-36F7E6398A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE4EFC33-A62F-43B8-B928-36F7E6398A34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
