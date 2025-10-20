@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using PolimorfismTesting.Action;
 
-namespace SharpcornerExample
+namespace PolimorfismTesting.Figures
 {
     public class Circle : Drawing
     {
