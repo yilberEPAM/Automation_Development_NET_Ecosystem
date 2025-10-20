@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PolimorfismTesting.Draw;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,12 +7,11 @@ using System.Threading.Tasks;
 
 namespace MicrosoftExample
 {
-    public class Rectangle : Shape
+    public class Triangle : Shape
     {
         public override void Draw()
         {
-            // Code to draw a rectangle...
-            Console.WriteLine("Drawing a rectangle");
+            Console.WriteLine("Drawing a triangle");
             base.Draw();
         }
     }
