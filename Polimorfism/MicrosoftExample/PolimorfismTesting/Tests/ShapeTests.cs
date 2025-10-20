@@ -1,4 +1,4 @@
-﻿using MicrosoftExample;
+﻿using PolimorfismTesting.Figures;
 using PolimorfismTesting.Draw;
 
 namespace PolimorfismTesting.Tests
